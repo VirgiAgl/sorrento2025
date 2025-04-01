@@ -42,7 +42,7 @@ schedule:
     end: "14:00"
 
   - title: TBD
-    authors:
+    author:
       - given: Silvia
         family: Chiappa
         # url: https://csilviavr.github.io/
