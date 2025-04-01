@@ -63,7 +63,7 @@ schedule:
 
   - title: "Panel: Future Directions in Causality Research"
     # List of panelists
-    # panelists:
+    # author:
     #   - given: Arthur
     #     family: Gretton
     #   - given: Isabel
