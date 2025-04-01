@@ -21,7 +21,6 @@ schedule:
       # affiliation: "Gatsby Unit, UCL & Google DeepMind"
     start: "10:00"
     end: "11:00"
-    # abstract: "..."
     
   - title: Coffee break
     start: "11:00"
@@ -35,7 +34,6 @@ schedule:
         # affiliation: "MPI-IS"
     start: "11:30"
     end: "12:30"
-    # abstract: "..."
 
   - title: "Lunch break"
     start: "12:30"
@@ -49,7 +47,6 @@ schedule:
         # affiliation: "Google DeepMind"
     start: "14:00"
     end: "15:00"
-    # abstract: "..."
 
   - title: TBD
     author:
@@ -59,7 +56,7 @@ schedule:
         # affiliation: "ISTA"
     start: "15:00"
     end: "16:00"
-    # abstract: "..."
+
 
   - title: "Panel: Future Directions in Causality Research"
     # List of panelists
