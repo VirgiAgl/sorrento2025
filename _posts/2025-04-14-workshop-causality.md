@@ -14,7 +14,7 @@ show_abstracts: false
 # Workshop Schedule
 schedule:
   - title: "Learning to act in noisy contexts using deep proxy learning."
-    speaker: # Changed from 'authors' to 'speaker' (single object)
+    author: # Changed from 'authors' to 'speaker' (single object)
       given: Arthur
       family: Gretton
       # url: "https://www.gatsby.ucl.ac.uk/~gretton/"
