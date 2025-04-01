@@ -52,7 +52,7 @@ schedule:
     # abstract: "..."
 
   - title: TBD
-    authors:
+    author:
       - given: Francesco
         family: Locatello # Corrected name - PLEASE VERIFY THIS IS CORRECT
         # url: https://www.francescolocatello.com/
