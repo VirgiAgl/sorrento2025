@@ -28,7 +28,7 @@ schedule:
     end: "11:30"
 
   - title: TBD
-    authors:
+    author:
       - given: Isabel
         family: Valera
         # url: https://ivaleram.github.io/
