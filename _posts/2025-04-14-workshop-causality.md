@@ -9,7 +9,7 @@ organizers:
     family: Magliacane
   - given: Virginia
     family: Aglietti
-room: "tbd"
+room: "Topazio"
 show_abstracts: false 
 # Workshop Schedule
 talks:
