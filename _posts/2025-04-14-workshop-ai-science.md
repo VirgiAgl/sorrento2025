@@ -9,7 +9,7 @@ organizers:
   family: Therien
 - given: Christopher
   family: Pal
-room: "tbd"
+room: "Turchese"
 show_abstracts: true
 talks:
 - title: "Opening Remarks "
