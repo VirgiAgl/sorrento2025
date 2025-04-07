@@ -16,13 +16,13 @@ talks:
 - title: "Introduction to Case Studies"
   start: "9:30"
   end: "9:40"
-- title: "Uncertainty communication for the layer-wise exploration of LLM embeddings using interlinked projections"
+- title: "Uncertainty communication for the layer-wise exploration of LLM embeddings using interlinked projections "
   start: "9:45"
   end: "10:15"
   author:
   - given: Menna
     family: El-Assady
-- title: "Personalised assessment and feedback tool for secondary school science education"
+- title: "Personalised assessment and feedback tool for secondary school science education "
   start: "10:30"
   end: "11:00"
   author:
