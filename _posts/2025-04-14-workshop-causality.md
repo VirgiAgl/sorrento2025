@@ -24,14 +24,14 @@ talks:
   start: "11:00"
   end: "11:30"
 
-- title: "TBD "
+- title: "Causal Generative Models as a Means to Ethical ML. "
   author:
     - given: Isabel
       family: Valera
   start: "11:30"
   end: "12:30"
 
-- title: "Panel: Future Directions in Causality Research"
+- title: "Panel: Future Directions in Causality Research. "
   # List of panelists
   # author:
   #   - given: Arthur
@@ -55,7 +55,7 @@ talks:
   start: "14:30"
   end: "15:30"
 
-- title: "Representation learning for downstream cause-effect estimation"
+- title: "Representation learning for downstream cause-effect estimation. "
   author:
     - given: Francesco
       family: Locatello
